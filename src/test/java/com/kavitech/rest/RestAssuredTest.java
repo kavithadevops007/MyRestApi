@@ -3,8 +3,6 @@ package com.kavitech.rest;
 import io.restassured.response.ValidatableResponse;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-
 import static io.restassured.RestAssured.when;
 import static org.hamcrest.Matchers.equalTo;
 
